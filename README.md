@@ -28,3 +28,7 @@ State Management: StatefulWidgets (SetState)
 Screenshots:
 ![image alt](https://github.com/Yugesh-kumar26/Event-App/blob/1ff7f78410effba21015c3a08bde9fb962b3b909/College%20Event.png)
 
+Screenshot 2:
+![image alt](![image alt](https://github.com/Yugesh-kumar26/Event-App/blob/1ff7f78410effba21015c3a08bde9fb962b3b909/College%20Event.png)
+
+
